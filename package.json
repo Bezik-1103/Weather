@@ -1,0 +1,27 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "vue-axios": "^3.3.7",
+    "vue-loader": "^15.9.8",
+    "vue-router": "^3.5.2",
+    "vue-template-compiler": "^2.6.14",
+    "vue.js": "^0.3.2",
+    "webpack": "^5.59.0"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "image-webpack-loader": "^8.0.1",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.3.1"
+  }
+}
